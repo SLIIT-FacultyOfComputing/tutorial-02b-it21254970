@@ -30,7 +30,7 @@ int main() {
 
 long Factorial(int no)
 {
-  int x = 1;
+  long x = 1;
   for (int i=no; i >=1; i--) {
         x = x * i;
     }
